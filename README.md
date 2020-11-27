@@ -1,0 +1,2 @@
+# smalljava
+smalljava是一个使用JAVA语言编写的JAVA脚本解释器，在JVM上可以执行JAVA脚本
